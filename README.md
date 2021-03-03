@@ -5,4 +5,3 @@ Summary
 •	If transaction is happening from A to B. Pan numbers of both has to be there.
 •	If Any user won’t have PAN number, transaction won’t happen.
 •	Use any other algorithm like SHA512 or SHA1024.
-•	if code is copied more than 50% then project is rejected.
